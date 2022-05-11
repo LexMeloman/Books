@@ -1,1 +1,3 @@
-5 files
+git add *.pdf
+git commit -m "Comments"
+git push
