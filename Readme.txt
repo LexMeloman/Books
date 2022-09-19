@@ -16,3 +16,5 @@ https://aliexpress.ru/item/32417857399.html
 https://aliexpress.ru/item/32958232064.html
 https://aliexpress.ru/item/33048773910.html
 https://aliexpress.ru/item/32476516056.html
+
+https://aliexpress.ru/item/580449904.html
