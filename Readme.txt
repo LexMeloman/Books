@@ -20,3 +20,12 @@ https://aliexpress.ru/item/32476516056.html
 https://aliexpress.ru/item/580449904.html
 
 https://www.youtube.com/watch?v=iMzA-RkqOc4
+
+
+c#
+https://www.grapecity.com/blogs/4-steps-to-transpose-and-invert-wpf-datagrid
+http://www.oszone.net/16661/WPF-DataGrid
+https://www.programmersought.com/article/57831471330/
+https://www.youtube.com/watch?v=DPbanNt1Ss4
+
+https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.tripledescryptoserviceprovider?redirectedfrom=MSDN&view=net-6.0
