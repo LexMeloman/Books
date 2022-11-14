@@ -31,3 +31,5 @@ https://www.youtube.com/watch?v=DPbanNt1Ss4
 https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.tripledescryptoserviceprovider?redirectedfrom=MSDN&view=net-6.0
 
 https://www.codeproject.com/Articles/509824/Creating-a-NumericUpDown-control-from-scratch
+
+https://github.com/MishkinIN/ItemsFilter
