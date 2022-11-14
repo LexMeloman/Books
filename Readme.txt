@@ -32,4 +32,5 @@ https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.triple
 
 https://www.codeproject.com/Articles/509824/Creating-a-NumericUpDown-control-from-scratch
 
+//DataGrid Filtering
 https://github.com/MishkinIN/ItemsFilter
