@@ -34,3 +34,22 @@ https://www.codeproject.com/Articles/509824/Creating-a-NumericUpDown-control-fro
 
 //DataGrid Filtering
 https://github.com/MishkinIN/ItemsFilter
+
+for (int i = 0; i < textBox1.Text.Length; i++)
+{
+    if (Char.IsLetter(textBox1.Text, i) || char.IsSymbol(textBox1.Text, i) )
+    {
+        MessageBox.Show($"{textBox1.Text.Substring(0, i).Trim()}|");
+        MessageBox.Show($"{textBox1.Text.Substring(i).Trim()}|");
+        break;
+    }
+    if (char.IsPunctuation(textBox1.Text, i) )
+    {
+        if (textBox1.Text[i] == ',' || textBox1.Text[i] == '-')
+        {
+            continue;
+        }
+        MessageBox.Show(textBox1.Text.Substring(0, i));
+        MessageBox.Show($"{textBox1.Text.Substring(i).Trim()}|");
+        break;
+    }
