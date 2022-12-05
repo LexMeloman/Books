@@ -53,3 +53,5 @@ for (int i = 0; i < textBox1.Text.Length; i++)
         MessageBox.Show($"{textBox1.Text.Substring(i).Trim()}|");
         break;
     }
+    
+    SortedSet
