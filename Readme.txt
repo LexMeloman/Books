@@ -58,3 +58,5 @@ for (int i = 0; i < textBox1.Text.Length; i++)
     
     
     https://www.youtube.com/watch?v=1QmTkHUMwiA
+    
+    https://www.youtube.com/@vector-massage-school
