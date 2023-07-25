@@ -62,3 +62,6 @@ for (int i = 0; i < textBox1.Text.Length; i++)
     https://www.youtube.com/@vector-massage-school
     
     https://github.com/HangfireIO/Hangfire
+
+Шифрование Go
+https://www.golinuxcloud.com/golang-encrypt-decrypt/
