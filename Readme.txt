@@ -65,3 +65,5 @@ for (int i = 0; i < textBox1.Text.Length; i++)
 
 Шифрование Go
 https://www.golinuxcloud.com/golang-encrypt-decrypt/
+
+https://gist.github.com/andrewloable/afa1c683701cec18c4530f6a91692e0b
