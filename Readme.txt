@@ -869,7 +869,8 @@ namespace pdfSpecification {
 					else {
 						nodeElement.Notes = string.Empty;
 					}
-
+//========================================================================
+https://kb.itextpdf.com/home/it7kb/ebooks/itext-jump-start-tutorial-for-java/chapter-6-reusing-existing-pdf-documents
 
 					nodeArr.Add(nodeElement);
 
