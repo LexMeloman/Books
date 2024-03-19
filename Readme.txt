@@ -77,4 +77,5 @@ https://kb.itextpdf.com/home/it7kb/ebooks/itext-jump-start-tutorial-for-java/cha
 https://www.youtube.com/watch?v=qpOeKt0xrGM
 == Тейл-спинеры
 https://www.youtube.com/watch?v=Lr1fcQnO18k
+https://www.youtube.com/watch?v=bc1AlUpI0kY
 
